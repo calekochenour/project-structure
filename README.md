@@ -22,8 +22,8 @@ In addition to the folder structure, this repository provides:
 
 Complementary resources:
 
-* [Medium article]()
-* [Video tutorial]()
+* [Medium article]() (TBD)
+* [Video tutorial]() (TBD)
 
 ## Prerequisites
 
@@ -67,7 +67,7 @@ $ make create
 
 Delete structure (folders only):
 ```bash
-make clean
+$ make clean
 ```
 
 ## Contents
