@@ -1,4 +1,4 @@
-# Getting started with open reproducible scientific programming projects.
+# Open Reproducible Science: Getting Started
 
 One key to open reproducible science is to provide rigorous organization of all project material. Not just for someone else to use, but also for you, if and when you return to the project after some time and/or when the project complexity increases.
 
@@ -22,8 +22,8 @@ In addition to the folder structure, this repository provides:
 
 Complementary resources:
 
-* [Medium article]() (TBD)
-* [Video tutorial]() (TBD)
+* [Medium article]() (coming soon)
+* [Video tutorial]() (coming soon)
 
 ## Prerequisites
 
