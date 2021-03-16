@@ -1,6 +1,6 @@
-# Getting started with open and reproducible scientific programming projects.
+# Getting started with open reproducible scientific programming projects.
 
-One key step to open and reproducible science to provide rigorous organization of all project material. Not just for someone else to use, but also for you, if and when you return to the project after some time and/or when the project complexity increases.
+One key to open reproducible science is to provide rigorous organization of all project material. Not just for someone else to use, but also for you, if and when you return to the project after some time and/or when the project complexity increases.
 
 This repository provides a Python script to create the following project structure within the current working directory:
 
@@ -17,8 +17,8 @@ The project structure was inspired by an [article](https://www.earthdatascience.
 
 In addition to the folder structure, this repository provides:
 
-* `Makefile` to automate folder creation and deletion
 * `environment.yml` to create the Conda environment
+* `Makefile` to automate folder creation and deletion
 
 Complementary resources:
 
