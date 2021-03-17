@@ -2,8 +2,8 @@
 .PHONY: create clean
 
 # Create folder structure
-create: create_folders.py
-	python create_folders.py
+create: create-folders.py
+	python create-folders.py
 	ls -la
 
 # Delete folder structure

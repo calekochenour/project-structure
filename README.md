@@ -76,7 +76,7 @@ $ make clean
 
 This repository contains all files required to create the project structure.
 
-### `create_folders.py`
+### `create-folders.py`
 
 Python script used to create the project structure.
 
