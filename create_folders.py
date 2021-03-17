@@ -11,14 +11,14 @@
 -------------------------------------------------------------------------------
  Author:  Cale Kochenour
  Contact: cale.kochenour@alumni.psu.edu
- License: BSD 3-Clause
+ License: MIT
 -------------------------------------------------------------------------------
 """
 # -------------------------ENVIRONMENT SETUP--------------------------------- #
 # Import packages and modules
 import os
 
-# -------------------------FOLDER CREATION----------------------------------- #
+# -------------------------DATA PREPROCESSING-------------------------------- #
 # Create folders
 for folder in [
     "01-code-scripts",

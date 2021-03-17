@@ -6,7 +6,7 @@ create: create_folders.py
 	python create_folders.py
 	ls -la
 
-# Delete the folder structure
+# Delete folder structure
 clean:
 	rm -rf 01-code-scripts
 	rm -rf 02-raw-data
