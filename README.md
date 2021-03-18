@@ -15,7 +15,7 @@ This repository provides a Python script to create the following project structu
 └── 05-papers-writings/
 ```
 
-A [lesson on best practices](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/best-practices-for-organizing-open-reproducible-science/) from the University of Colorado Boulder [Earth Lab](https://www.earthdatascience.org/) inspired the structure.
+A [lesson](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/best-practices-for-organizing-open-reproducible-science/) on best practices from the University of Colorado Boulder [Earth Lab](https://www.earthdatascience.org/) inspired the structure.
 
 In addition to the folder structure, this repository provides:
 
@@ -24,8 +24,8 @@ In addition to the folder structure, this repository provides:
 
 Complementary resources:
 
-* [Medium article]() (coming soon)
-* [Video tutorial]() (coming soon)
+* [Medium Article]() (coming soon)
+* [Video Tutorial]() (coming soon)
 
 ## Prerequisites
 
