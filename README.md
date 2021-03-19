@@ -1,6 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/calekochenour/project-structure/main)
 
-# Open Reproducible Science: Getting Started
+# Open Reproducible Science: Project Structure
 
 One key to open reproducible science is to provide rigorous organization of all project material. Not just for someone else to use, but also for you, if and when you return to the project after some time and/or when the project complexity increases.
 
@@ -14,8 +15,6 @@ This repository provides a Python script to create the following project structu
 ├── 04-graphics-outputs/
 └── 05-papers-writings/
 ```
-
-A [lesson](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/best-practices-for-organizing-open-reproducible-science/) on best practices from the University of Colorado Boulder [Earth Lab](https://www.earthdatascience.org/) inspired the structure.
 
 In addition to the folder structure, this repository provides:
 

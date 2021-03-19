@@ -2,12 +2,12 @@
 -------------------------------------------------------------------------------
  Creates the following project structure within the current working
  directory:
-   .
-   ├── 01-code-scripts
-   ├── 02-raw-data
-   ├── 03-processed-data
-   ├── 04-graphics-outputs
-   └── 05-papers-writings
+ .
+ ├── 01-code-scripts
+ ├── 02-raw-data
+ ├── 03-processed-data
+ ├── 04-graphics-outputs
+ └── 05-papers-writings
 -------------------------------------------------------------------------------
  Author:  Cale Kochenour
  Contact: cale.kochenour@alumni.psu.edu
