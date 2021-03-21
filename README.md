@@ -23,8 +23,8 @@ In addition to the folder structure, this repository provides:
 
 Complementary resources:
 
-* [Medium Article]() (coming soon)
-* [Video Tutorial]() (coming soon)
+* [Medium Article](https://medium.com/geospatial-talent-stack/open-reproducible-science-project-structure-55acc76045b7)
+* [Video Tutorial](https://youtu.be/88zGqBlUn7E)
 
 ## Prerequisites
 
